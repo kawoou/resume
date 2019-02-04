@@ -7,6 +7,7 @@
 * Blog: [kawoou.kr](http://www.kawoou.kr)
 * Facebook: [facebook.com/kawoou](https://facebook.com/kawoou)
 * Github: [github.com/kawoou](https://github.com/kawoou)
+* KakaoTalk: [open.kakao.com/me/kawoou](https://open.kakao.com/me/kawoou)
 
 <br/>
 
