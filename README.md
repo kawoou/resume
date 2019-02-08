@@ -28,7 +28,7 @@
 [**Hyperconnect**](https://hyperconnect.com/)
 > 누적 다운로드 2억건을 달성한 Azar라는 서비스의 iOS 팀에서 개발을 진행했습니다.
 
-* 기간: 2017.06 ~ 2018.01
+* 기간: 2017.06 ~ 2019.01
 * 직급: Software Engineer
 
 [**Redduck**](http://www.redduck.com/)
@@ -133,7 +133,7 @@
 
 <br/>
 
-**Metro Conflict (Xuất Kích)**
+**Metro Conflict (Xuất Kích)**
 
 > 병역 특례를 위해 Redduck에 입사했습니다. UnrealEngine3로 구현된 Metro Conflict라는 게임은 Awesomium이라는 Chromium 기반 엔진 위에서 Web UI를 구성하는데, 게임 회사다 보니 Front-end 개발을 해본 적 없는 C/C++ 개발자들이 작성해둔 기존 코드를 활용할 수 없어 AngularJS로 시스템 전반을 재구현했습니다.
 >
