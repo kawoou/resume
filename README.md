@@ -1,10 +1,13 @@
 안정원(Jungwon An)
 ================
 
+![GitHub last commit](https://img.shields.io/github/last-commit/kawoou/resume.svg)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://open.kakao.com/me/kawoou)
+[![HitCount](http://hits.dwyl.io/kawoou/kawoou/resume.svg)](http://hits.dwyl.io/kawoou/kawoou/resume)
+
 힘든 일 속에서도 항상 즐거움을 찾으며 함께하는 사람들과 다 함께 걸어가기 위해 자신의 분야뿐만 아니라 새로운 길이더라도 이해하기 위해 공부하고 노력하는 개발자이자, 같이 놀고 즐기는 것을 좋아하여 힘든 일 또한 발전할 수 있는 좋은 경험이라는 생각으로 빠르게 털고 일어나는 힘이 있는 사람입니다.
 
 * Email: [kawoou@kawoou.kr](mailto://kawoou@kawoou.kr)
-* Blog: [kawoou.kr](http://www.kawoou.kr)
 * Facebook: [facebook.com/kawoou](https://facebook.com/kawoou)
 * Github: [github.com/kawoou](https://github.com/kawoou)
 * KakaoTalk: [open.kakao.com/me/kawoou](https://open.kakao.com/me/kawoou)
@@ -122,7 +125,7 @@
 > Hyperconnect에서의 Azar라는 프로젝트는 Swift 1.x부터 진행되었던 프로젝트였기에 Legacy 코드가 많았습니다. 그러다보니 Feature 작업이 아니라면 대부분의 시간은 정리 위주로 작업했습니다. Objective-C 기반으로 개발된 네트워크 모듈을 Swift로 재정리하고, IAP나 APNS와 같은 Core 모듈에 대한 리펙토링, 그리고 기존 Objective-C 기반의 라이브러리를 제거와 함께 Kingfisher, RxSwift, Alamofire 라이브러리도 도입했습니다.
 
 * 회사 : Hyperconnect
-* 개발 기술 : Swift, SwiftLint, SQLite, RxSwift, ReactorKit, WebRTC
+* 개발 기술 : Swift, SwiftLint, SQLite, RxSwift, ReactorKit, WebRTC, Firebase, GTM, GA
 * 담당 업무
   * Azar 서비스에서 신규 Feature 작업 및 리펙토링
   * CI 스크립트 개선
@@ -142,7 +145,7 @@
 > [Metro Conflict: The Origin](https://store.steampowered.com/app/662320/METRO_CONFLICT_THE_ORIGIN/)
 
 * 회사 : Redduck
-* 개발 기술 : AngularJS, Less, Grunt, NodeJS, C#, Unreal Script
+* 개발 기술 : AngularJS, Less.js, Grunt, Node.js, C#, Unreal Script
 * 담당 업무
   * 로비 시스템 신규 구현
   * 리소스 관리 규칙 정리
@@ -179,7 +182,7 @@
 > 하지만 회사에서 브랜드명을 변경하면서 Moncast는 사라지고 시니어 개발자를 뽑아 Dingo 라는 서비스로 해외 런칭을 목표로 신규 구현을 시작하며, 스스로의 발전을 위해 Backend팀 으로 팀을 이동했습니다.
 
 * 회사 : Makeus Mobile
-* 개발 기술 : Objective-C, Splunk Mint
+* 개발 기술 : Objective-C, Splunk Mint, AFNetworking, GA
 * 담당 업무
   * iOS 리펙토링 및 신 버전 작업
   * 서비스 기획 참여
@@ -259,7 +262,7 @@
 **Alarmy Site**
 
 * 회사 : DelightRoom
-* 개발 기술 : HTML, CSS 3, ECMA 5, jQuery
+* 개발 기술 : HTML4, CSS3, ECMA 5, jQuery
 * 담당 업무
   * 웹 디자인 및 개발
 
@@ -270,7 +273,7 @@
 **DelightRoom Site**
 
 * 회사 : DelightRoom
-* 개발 기술 : HTML, CSS 3, ECMA 5, jQuery
+* 개발 기술 : HTML4, CSS3, ECMA 5, jQuery
 * 담당 업무
   * 웹 디자인 및 개발
 
@@ -290,7 +293,7 @@
 >
 > [Preview Video](https://www.icloud.com/iclouddrive/0N-n2sTGFEHO-C3LHVhOntjSQ#DynamicWAVE_for_Mobile.mp4)
 
-* 개발 기술 : Corona SDK, Cocos2d-x
+* 개발 기술 : Corona SDK, Cocos2d-x, Lua
 
 <img src="images/DynamicWAVE/1.png" height="290"/> <img src="images/DynamicWAVE/2.png" height="290"/>
 
@@ -302,7 +305,7 @@
 >
 > [Preview Video](https://www.icloud.com/iclouddrive/0uPQxaR7pn3sy5qz9tYtKRTUA#Billiards.mp4)
 
-* 개발 기술 : DirectX 9.0, HLSL
+* 개발 기술 : DirectX 9.0, HLSL, C++
 
 <img src="images/Billiards/1.png" height="220"/> <img src="images/Billiards/2.png" height="220"/> <img src="images/Billiards/3.png" height="220"/> <img src="images/Billiards/4.png" height="220"/> <img src="images/Billiards/5.png" height="220"/>
 
@@ -325,23 +328,33 @@
 
 [**FlexibleImage**](https://github.com/kawoou/FlexibleImage)
 
+> ![Github stars](https://img.shields.io/github/stars/kawoou/FlexibleImage.svg?style=social&label=Stars)
+>
 > FlexibleImage is implemented with the hope that anyone could easily develop an app that provides features such as Camera Filter and Theme. When you write code in the "Method Chaining" style, the effect is applied in the appropriate order.
 
 [**Deli**](https://github.com/kawoou/Deli)
 
+> ![Github stars](https://img.shields.io/github/stars/kawoou/Deli.svg?style=social&label=Stars)
+>
 > Deli is an easy-to-use Dependency Injection Container that creates DI containers with all required registrations and corresponding factories.
 >
 
 [**AnyDate**](https://github.com/kawoou/AnyDate)
 
+> ![Github stars](https://img.shields.io/github/stars/kawoou/AnyDate.svg?style=social&label=Stars)
+>
 > Swifty Date & Time API inspired from Java 8 DateTime API.
 
 [**KWDrawerController**](https://github.com/kawoou/KWDrawerController)
 
+> ![Github stars](https://img.shields.io/github/stars/kawoou/KWDrawerController.svg?style=social&label=Stars)
+>
 > Drawer view controller that is easy to use!
 
 [**Animeal**](https://github.com/Animeal/animeal-web-for-exhibit)
 
+> ![Github stars](https://img.shields.io/github/stars/Animeal/animeal-web-for-exhibit.svg?style=social&label=Stars)
+>
 > Animeal Web for Exhibition on [Sookmyung Women's University](http://www.sookmyung.ac.kr/).
 
 <img src="images/Animeal/1.png" height="200"/><img src="images/Animeal/2.png" height="200"/><img src="images/Animeal/3.png" height="200"/>
@@ -350,6 +363,8 @@
 
 [**Codeigniter Docs**](https://github.com/owen1025/codeigniter-apidocs)
 
+> ![Github stars](https://img.shields.io/github/stars/owen1025/codeigniter-apidocs.svg?style=social&label=Stars)
+>
 > Parsing Codeigniter project's controller and make api documents. Also provide Request Form and Response Form for api testing.
 
 <img src="images/Codeigniter Docs/1.png" height="400"/>
@@ -358,12 +373,28 @@
 
 ### 오픈소스 기여
 
+[**SnapKit**](https://github.com/SnapKit/SnapKit)
+
+> ![Github stars](https://img.shields.io/github/stars/SnapKit/SnapKit.svg?style=social&label=Stars)
+>
+> A Swift Autolayout DSL for iOS & OS X http://snapkit.io
+
+[**Stencil**](https://github.com/stencilproject/Stencil)
+
+> ![Github stars](https://img.shields.io/github/stars/stencilproject/Stencil.svg?style=social&label=Stars)
+>
+> Stencil is a simple and powerful template language for Swift. https://stencil.fuller.li
+
 [**Gradients**](https://github.com/cruisediary/Gradients)
 
+> ![Github stars](https://img.shields.io/github/stars/cruisediary/Gradients.svg?style=social&label=Stars)
+>
 > 🌔 A curated collection of splendid 180+ gradients made in swift
 
 [**RxValidator**](https://github.com/vbmania/RxValidator)
 
+> ![Github stars](https://img.shields.io/github/stars/vbmania/RxValidator.svg?style=social&label=Stars)
+>
 > Easy to Use, Read, Extensible, Flexible Validation Checker
 
 <br/><br/>
