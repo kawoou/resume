@@ -351,6 +351,12 @@
 >
 > Drawer view controller that is easy to use!
 
+[**jquery-korean-pron**](https://github.com/kawoou/jquery-korean-pron)
+
+> ![Github stars](https://img.shields.io/github/stars/kawoou/jquery-korean-pron.svg?style=social&label=Stars)
+>
+> 한국어 발음 변환 라이브러리
+
 [**Animeal**](https://github.com/Animeal/animeal-web-for-exhibit)
 
 > ![Github stars](https://img.shields.io/github/stars/Animeal/animeal-web-for-exhibit.svg?style=social&label=Stars)
