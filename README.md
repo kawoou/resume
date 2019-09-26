@@ -120,6 +120,28 @@
 
 ## 프로젝트
 
+**KONGKONG**
+
+> 외주로 진행한 프로젝트로 백엔드, 프론트엔드 전반을 담당했습니다. Thymeleaf 기반으로 웹사이트 구현 및 모바일 앱을 위한 Rest API 구현을 진행했습니다.
+> 백엔드의 경우 멀티 모듈로 Kotlin, Spring Boot 기반에 Spring Security, JPA를 사용하였으며, 프론트엔드는 Thymeleaf, jQuery, Less로 구현했습니다.
+> 이중화가 가능한 구조로 구현되어 수평 확장이 가능하며, 베트남, 인도네시아를 위한 다국어 처리를 진행했습니다. 
+
+* 회사 : Gluri
+* 개발 기술
+  * 인프라 : 전체 인프라를 AWS 싱가폴 리전에 구성
+  * 백엔드 : Kotlin, Spring Boot 2.1.x, Spring Security, JPA(Hibernate), Gradle, Redis, Sentry
+  * 프론트엔드 : Thymeleaf, jQuery, Less, Lodash
+* 담당 업무
+  * AWS 기반 인프라 구성
+  * 웹사이트 구현 및 모바일 앱을 위한 Rest API 구현
+  * 관리자 페이지 구현
+  * 다국어 처리
+* 홈페이지 : https://kongkong.kr
+
+<img src="images/KONGKONG/1.png" height="315"/> <img src="images/KONGKONG/2.png" height="315"/> <img src="images/KONGKONG/3.png" height="315"/>
+
+<br/>
+
 **Azar**
 
 > Hyperconnect에서의 Azar라는 프로젝트는 Swift 1.x부터 진행되었던 프로젝트였기에 Legacy 코드가 많았습니다. 그러다보니 Feature 작업이 아니라면 대부분의 시간은 정리 위주로 작업했습니다. Objective-C 기반으로 개발된 네트워크 모듈을 Swift로 재정리하고, IAP나 APNS와 같은 Core 모듈에 대한 리펙토링, 그리고 기존 Objective-C 기반의 라이브러리를 제거와 함께 Kingfisher, RxSwift, Alamofire 라이브러리도 도입했습니다.
