@@ -63,6 +63,18 @@
 
 ## 활동
 
+[**Let us: Go! 2019 Summer**](https://letusgo.app/)
+> <누구나 할 수 있다 Networking>라는 주제로 초급자를 대상으로 REST에 대한 기초와 iOS에서의 Networking 처리를 위한 URLSession와 Alamofire, Moya라는 라이브러리를 사용해보는 실습을 진행했습니다.
+>
+> https://www.slideshare.net/ssuser86f623/networking-159992226
+
+* 기간 : 2019.08.03
+* 내용 : 누구나 할 수 있다 Networking
+
+<img src="images/Slide-Networking/1.jpg" height="165"/> <img src="images/Slide-Networking/2.jpg" height="165"/> <img src="images/Slide-Networking/3.jpg" height="165"/>
+
+<br/>
+
 [**Let us: Go! 2018 Fall**](https://iosdevkor.github.io/let_us_go_2018_fall/)
 > <알아보자 Dependency Injection과 Deli>라는 주제로 Dependency Injection에 대한 내용을 설명하고, Deli 라이브러리에 대해 발표했습니다.
 >
