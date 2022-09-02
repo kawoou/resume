@@ -28,6 +28,12 @@
 
 ## 경력
 
+[**Viva Republica**](https://toss.im/)
+> 2,000만 이상의 누적 가입자를 가지고 있는 국내 대표 핀테크 앱 Toss 팀에서 iOS 개발을 진행하고 있습니다.
+
+* 기간: 2019.10 ~ 현재
+* 직급: iOS Developer
+
 [**Hyperconnect**](https://hyperconnect.com/)
 > 누적 다운로드 2억건을 달성한 Azar라는 서비스의 iOS 팀에서 개발을 진행했습니다.
 
@@ -62,6 +68,16 @@
 
 
 ## 활동
+
+[**토스ㅣSLASH 21**](https://toss.im/slash-21)
+> <메모리에 남지 않는 문자열>라는 주제로 Swift에서 메모리에 원문이 남지 않도록 데이터를 관리하는 방법에 대해 발표했습니다.
+>
+> https://toss.im/slash-21/sessions/3-6
+
+* 기간 : 2021.04.30
+* 내용 : 메모리에 남지 않는 문자열
+
+<br/>
 
 [**Let us: Go! 2019 Summer**](https://letusgo.app/)
 > <누구나 할 수 있다 Networking>라는 주제로 초급자를 대상으로 REST에 대한 기초와 iOS에서의 Networking 처리를 위한 URLSession와 Alamofire, Moya라는 라이브러리를 사용해보는 실습을 진행했습니다.
@@ -141,8 +157,8 @@
 * 회사 : Gluri
 * 개발 기술
   * 인프라 : 전체 인프라를 AWS 싱가폴 리전에 구성
-  * 백엔드 : Kotlin, Spring Boot 2.1.x, Spring Security, JPA(Hibernate), Gradle, Redis, Sentry
-  * 프론트엔드 : Thymeleaf, jQuery, Less, Lodash
+  * 백엔드 : Kotlin, Spring Boot 2.1.x, Spring Security, JPA(Hibernate), Gradle, Redis, Sentry, Thymeleaf
+  * 프론트엔드 : jQuery, Less, Lodash
 * 담당 업무
   * AWS 기반 인프라 구성
   * 웹사이트 구현 및 모바일 앱을 위한 Rest API 구현
