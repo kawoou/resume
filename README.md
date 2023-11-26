@@ -148,6 +148,55 @@
 
 ## 프로젝트
 
+**Toss**
+
+> 현 직장
+
+* 회사 : ㈜비바리퍼블리카
+* 개발 기술
+  * 백엔드 : Serverless, Kotlin, Spring Boot 3.1.x, WebFlux, Coroutine, R2DBC, Flyway
+  * iOS : Swift Concurrency, RxFlow, ReactorKit, RIBs, Jenkins, Fastlane, FlexLayout, Tuist, Xcodegen, etc..
+* 담당 업무
+  * Card 사일로
+    * 내 신용 정보 서비스
+    * 토스머니카드 서비스
+    * 토스신용카드 서비스
+    * 카드 혜택 추천 서비스
+    * Server-driven UI 방식의 제휴카드 발급 퍼널 구현
+  * Paper0 사일로
+    * Server-driven UI 방식의 내문서함 서비스 구현
+    * 무인편의점 출입증 서비스
+    * 증명서떼기 서비스
+  * Pay 사일로
+    * 토스 결제 서비스
+    * 토스 현장결제 서비스
+  * Client Platform 팀
+    * Client Platform 서버 구축
+    * Swift 서버 구축 및 Lambda 배포 파이프라인 구성    
+    * 앱 초기화 과정 재설계
+    * 의존도가 높고 블랙박스 핵심 레거시 청산
+    * Remote Config와 유사한 내재화된 TUBA 시스템을 재설계 및 TUBA 기반 점진적 배포
+    * 네트워크 모듈 재설계
+    * Kingfisher의 기능을 재설계하여 내재화
+    * WebP 이미지 Decoder 구현
+  * 토스증권
+    * 토스 차트 구현
+  * 개인적인 개선
+    * 비밀번호 인증, 생체 인증, 암호화 로직 전반 재설계
+    * 문자열이 메모리에 남지 않도록 하는 EncryptedString, SecureLabel, SecureTextField 구현
+    * Swift AST 기반 워크스페이스 타입 정보 파싱을 위한 내부 라이브러리 개발
+    * DI를 구현하여 적용, 컴파일 단계에서 의존성 검증이 가능한 툴을 구현하여 적용
+    * Unicode 파싱이 가능한 정규식 기반 URIComponents 구현
+    * Tuist 도입
+    * WKWebView stale-while-revalidate 기능 구현
+  * 코드 리펙토링, 버그 수정 등
+* 홈페이지 : https://toss.im
+* 앱스토어 : https://apps.apple.com/kr/app/%ED%86%A0%EC%8A%A4/id839333328?mt=8
+
+<img src="images/Toss/1.png" height="315"/> <img src="images/Toss/2.png" height="315"/> <img src="images/Toss/3.png" height="315"/> <img src="images/Toss/4.png" height="315"/> <img src="images/Toss/5.png" height="315"/>
+
+<br />
+
 **KONGKONG**
 
 > 외주로 진행한 프로젝트로 백엔드, 프론트엔드 전반을 담당했습니다. Thymeleaf 기반으로 웹사이트 구현 및 모바일 앱을 위한 Rest API 구현을 진행했습니다.
