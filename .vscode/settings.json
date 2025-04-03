@@ -1,0 +1,7 @@
+{
+    "markdown-pdf.footerTemplate": "-",
+    "markdown-pdf.headerTemplate": "-",
+    "markdown-pdf.highlightStyle": "github.css",
+    "markdown-pdf.executablePath": "/Applications/Chromium.app/Contents/MacOS/Chromium",
+    "markdown-pdf.displayHeaderFooter": false
+}

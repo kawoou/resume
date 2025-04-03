@@ -7,7 +7,6 @@
 힘든 일 속에서도 항상 즐거움을 찾으며 함께하는 사람들과 다 함께 걸어가기 위해 자신의 분야뿐만 아니라 새로운 길이더라도 이해하기 위해 공부하고 노력하는 개발자이자, 같이 놀고 즐기는 것을 좋아하여 힘든 일 또한 발전할 수 있는 좋은 경험이라는 생각으로 빠르게 털고 일어나는 힘이 있는 사람입니다.
 
 * Email: [kawoou@kawoou.kr](mailto://kawoou@kawoou.kr)
-* Facebook: [facebook.com/kawoou](https://facebook.com/kawoou)
 * Github: [github.com/kawoou](https://github.com/kawoou)
 * KakaoTalk: [open.kakao.com/me/kawoou](https://open.kakao.com/me/kawoou)
 
@@ -157,18 +156,13 @@
   * iOS : Swift Concurrency, RxFlow, ReactorKit, RIBs, Jenkins, Fastlane, FlexLayout, Tuist, Xcodegen, etc..
 * 담당 업무
   * Card 사일로
-    * 내 신용 정보 서비스
-    * 토스머니카드 서비스
-    * 토스신용카드 서비스
-    * 카드 혜택 추천 서비스
+    * 내 신용 정보 서비스 / 토스머니카드 / 토스신용카드 / 카드 혜택 추천 서비스
     * Server-driven UI 방식의 제휴카드 발급 퍼널 구현
   * Paper0 사일로
     * Server-driven UI 방식의 내문서함 서비스 구현
-    * 무인편의점 출입증 서비스
-    * 증명서떼기 서비스
+    * 무인편의점 출입증 / 증명서떼기 서비스
   * Pay 사일로
-    * 토스 결제 서비스
-    * 토스 현장결제 서비스
+    * 토스 결제 / 현장결제 서비스
   * Client Platform 팀
     * Client Platform 서버 구축
     * Swift 서버 구축 및 Lambda 배포 파이프라인 구성    
@@ -178,15 +172,19 @@
     * 네트워크 모듈 재설계
     * Kingfisher의 기능을 재설계하여 내재화
     * WebP 이미지 Decoder 구현
+  * Face Pay 사일로
+    * iOS 얼굴 인증 모듈 관련 R&D
+    * 성능 최적화를 위한 MetalPerformanceSharder 활용
+    * Depth 정보와 CoreML을 이용하여 Liveness 처리
   * 토스증권
     * 토스 차트 구현
-  * 개인적인 개선
+  * 개선 기여
     * 비밀번호 인증, 생체 인증, 암호화 로직 전반 재설계
     * 문자열이 메모리에 남지 않도록 하는 EncryptedString, SecureLabel, SecureTextField 구현
     * Swift AST 기반 워크스페이스 타입 정보 파싱을 위한 내부 라이브러리 개발
     * DI를 구현하여 적용, 컴파일 단계에서 의존성 검증이 가능한 툴을 구현하여 적용
     * Unicode 파싱이 가능한 정규식 기반 URIComponents 구현
-    * Tuist 도입
+    * Tuist 도입 및 모듈화
     * WKWebView stale-while-revalidate 기능 구현
   * 코드 리펙토링, 버그 수정 등
 * 홈페이지 : https://toss.im
